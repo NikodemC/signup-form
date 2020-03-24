@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\NUnit Test Kandidate\NUnit Test Kandidate\obj\Debug\netcoreapp2.1\NUnitTestKandidate.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\NUnit Test Kandidate\NUnit Test Kandidate\obj\Debug\netcoreapp2.1\NUnitTestKandidate.AssemblyInfo.cs
+C:\Users\user\source\repos\NUnit Test Kandidate\NUnit Test Kandidate\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\user\source\repos\NUnit Test Kandidate\NUnit Test Kandidate\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\user\source\repos\NUnit Test Kandidate\NUnit Test Kandidate\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\user\source\repos\NUnit Test Kandidate\NUnit Test Kandidate\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\user\source\repos\NUnit Test Kandidate\NUnit Test Kandidate\bin\Debug\netcoreapp2.1\NUnitTestKandidate.deps.json
+C:\Users\user\source\repos\NUnit Test Kandidate\NUnit Test Kandidate\bin\Debug\netcoreapp2.1\NUnitTestKandidate.runtimeconfig.json
+C:\Users\user\source\repos\NUnit Test Kandidate\NUnit Test Kandidate\bin\Debug\netcoreapp2.1\NUnitTestKandidate.runtimeconfig.dev.json
+C:\Users\user\source\repos\NUnit Test Kandidate\NUnit Test Kandidate\bin\Debug\netcoreapp2.1\NUnitTestKandidate.dll
+C:\Users\user\source\repos\NUnit Test Kandidate\NUnit Test Kandidate\bin\Debug\netcoreapp2.1\NUnitTestKandidate.pdb
+C:\Users\user\source\repos\NUnit Test Kandidate\NUnit Test Kandidate\obj\Debug\netcoreapp2.1\NUnitTestKandidate.dll
+C:\Users\user\source\repos\NUnit Test Kandidate\NUnit Test Kandidate\obj\Debug\netcoreapp2.1\NUnitTestKandidate.pdb
+C:\Users\user\source\repos\NUnit Test Kandidate\NUnit Test Kandidate\obj\Debug\netcoreapp2.1\NUnitTestKandidate.csprojAssemblyReference.cache
